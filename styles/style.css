@@ -1,0 +1,61 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background{
+    background-image: url("../images/citydark.jpg");
+    background-size: cover;
+    border-radius: 50px;
+    min-width: 350px;
+    max-width: 40%;
+    max-height: 500px;
+    margin: 50pt;
+    border: 1px solid #000000;
+    box-shadow: 5px 20px 30px #2c2b2b;
+    
+}
+
+.card{ 
+    background-color: rgba(255, 255, 255, 0.733)!important;
+    border: 1px solid rgb(0, 0, 0)!important;
+    min-width: 250px!important; 
+    width: 40%;
+    min-width: 170px;
+    height: 400px;
+    font-size: 13pt;
+    color: #000000; 
+    border-radius: 50px!important;
+    box-shadow: 5px 20px 30px rgba(59, 59, 59, 0.5)!important;
+    
+}
+
+.card-body {
+    padding: 0rem 0rem !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.display-4{
+    color: #000000;
+}
+
+.small{
+    color: #000000;
+}
+
+.fas{
+    color: #000000;
+}
+
+.icon{
+    width:140px;
+}
+
+.row{
+    margin: 20px !important;
+    min-width: 200px !important;
+}
+
+#temp{
+    font-size: 17pt;
+}
+
